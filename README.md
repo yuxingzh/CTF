@@ -23,7 +23,7 @@ Requirements:
 
 ·Strong program understanding and reverse analysis ability.
 
-Online CTF website
+Online CTF website  
 1.https://ethernaut.openzeppelin.com/  
 WP:https://hitcxy.com/2019/ethernaut/  
 2.https://capturetheether.com/challenges/  
