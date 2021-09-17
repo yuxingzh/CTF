@@ -1,4 +1,4 @@
-# CTF
+# BlockChain in CTF
 
 Ethereum is a representative product of Blockchain 2.0, which inherits various features of blockchain because of its underlying blockchain technology, one of which is that once the code is on the chain, it is difficult to tamper or change, so we need to pay extra attention to its security.
 
