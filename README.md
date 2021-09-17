@@ -22,3 +22,13 @@ Requirements:
 ·Thorough understanding of underlying opcodes.
 
 ·Strong program understanding and reverse analysis ability.
+
+Online CTF website
+1.https://ethernaut.openzeppelin.com/
+WP:https://hitcxy.com/2019/ethernaut/
+2.https://capturetheether.com/challenges/
+WP:https://www.anquanke.com/post/id/153375;https://www.anquanke.com/post/id/154104
+3.https://blockchain-ctf.securityinnovation.com/#/
+WP:https://hitcxy.com/2020/securityinnovation/
+4.https://www.damnvulnerabledefi.xyz/
+WP:https://blog.syang.xyz/2021/03/damn-vulnerable-defi-writeup/
